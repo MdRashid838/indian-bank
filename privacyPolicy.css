@@ -1,0 +1,76 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#privacy-body {
+  background-color: #628569;
+}
+
+#privacy-body-page {
+  background: linear-gradient(90deg, pink, lemonchiffon, skyblue);
+
+  padding: 25px 50px 25px 70px;
+  text-align: justify;
+  height: 6000px;
+  width: 800px;
+  margin-left: 170px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  /* border:2px solid black; */
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px 3px grey;
+}
+h1 {
+  text-align: center;
+  padding-bottom: 25px;
+  color: green;
+}
+p {
+  font-size: 18px;
+}
+ul {
+  font-size: 18px;
+}
+#privacy-back-btn1 {
+  position: absolute;
+  display: inline-block;
+  margin-left: 70px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  height: 40px;
+  width: 75px;
+  border-radius: 10px;
+  color: blue;
+  border: none;
+  text-transform: lowercase;
+  font-size: 17px;
+}
+#privacy-back-btn1 {
+  text-decoration: none;
+  font-size: 20px;
+  height: 30px;
+  width: 60px;
+  /* margin-left: 50px; */
+  /* margin-top: 90px; */
+  text-align: center;
+  padding: 4px 5px 2px 0px;
+  background-color: rgb(206, 196, 255);
+  border: none;
+  border-radius: 10px;
+}
+#privacy-back-btn2 {
+  position: absolute;
+  display: inline-block;
+  margin-left: 45px;
+  margin-top: 55px;
+
+  height: 40px;
+  width: 75px;
+  border-radius: 10px;
+  color: blue;
+  border: none;
+
+  font-size: 17px;
+  
+}

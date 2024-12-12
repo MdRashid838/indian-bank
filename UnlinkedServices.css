@@ -1,0 +1,172 @@
+*{
+   padding:0;
+   margin:0;
+}
+
+#services-body-id{
+    /* background:linear-gradient(90deg,pink,lemonchiffon,skyblue); */
+    background-color: #628569;
+   
+  } 
+ #services-nav-bar{
+      position:relative;
+    
+    
+     height:65px;
+     width:1050px;
+     background-color:blue;
+     font-size: 25px;
+    text-align:center;
+   
+     margin-left:427px;
+     border-top-left-radius:25px;
+     
+     box-shadow: 3px 3px 3px grey;
+     border:none;
+     text-align: center;
+     color:gold;
+      top:16px;
+      padding-top:30px;
+     
+     
+ 
+ } 
+ #bankname-id{
+    text-align: center;
+    color:gold;
+     top:16px;
+     left:200px;
+    
+ 
+ }
+ #service-id{
+    
+     list-style-type:none;
+     border:2px solid black;
+     height:600px;
+     width:450px;
+     margin-left:450px;
+     margin-top:90px;
+     background-color:azure;
+     border-radius:7px;
+     box-shadow:3px 3px 3px ;
+     border:none;
+ 
+
+  }
+  #service-list-id{
+   text-align: center;
+  }
+  #services-hr{
+     margin-left:20px;
+     margin-right:20px;
+     margin-bottom:50px;
+     margin-top:20px;
+ }
+  #service-list-id button{
+ height:45px;
+ width:150px;
+ font-size:17px;
+ background-color:paleturquoise;
+ border:none;
+ border-radius:10px;
+ margin-left:20px;
+ 
+ 
+  }
+  
+  #service-btn-id button{
+     height:30px;
+     width:60px;
+     margin-left:50px;
+     margin-top:100px;
+     font-size:17px;
+     background-color: bisque;
+     border:none;
+     border-radius: 10px;
+  }
+  #header{
+     text-align:center;
+     color:gold;
+     padding-top:20px;
+     border:none;
+     border-radius: 10px;
+  }  
+  #deposite{
+     text-decoration:none;
+     border:2px solid black;
+     border-radius:3px;
+     width:150px;
+     font-size:20px;
+     color:green;
+     padding-left:5px;
+     padding-top:5px;
+     padding-bottom:5px;
+     margin:40px;
+  }
+  #withdraw{
+     text-decoration:none;
+     border:2px solid black;
+     font-size:20px;
+     color:green;
+     padding-left:5px;
+     padding-top:5px;
+     padding-bottom:5px;
+     margin:40px;
+     width:150px;
+  }
+  #change-password{
+     text-decoration:none;
+     /* border:2px solid black; */
+     font-size:20px;
+     color:green;
+     padding-left:5px;
+     padding-top:5px;
+     padding-bottom:5px;
+     margin:40px;
+     width:150px;
+  }
+  #unlinkedservice-back-btn-id button{
+     height:35px;
+     width:75px;
+     margin-left:25px;
+     /* background-color: chocolate; */
+     color:black;
+     position:absolute;
+     display:inline-block;
+     margin-top:90px;
+     border-radius:10px;
+     border:none;
+     background-color:bisque;
+     font-size:17px;
+  }
+  #caption-id p{
+    position:absolute;
+    display:inline-block;
+   margin-top:100px;
+   margin-left:159px;
+    position:relative;
+    display:inline-block;
+    
+  }
+  #unlinkedservice-signup {
+    position:absolute;
+    display:inline-block;
+    height:35px;
+     width:75px;
+    margin-left:330px;
+     margin-top:-41px;
+    border:none;
+   
+     border-radius:10px;
+     font-size:17px;
+     
+  }
+  #un-btn{
+   position:absolute;
+   display: inline block;
+   text-decoration: none;
+   margin-top:20px;
+   font-size: 20px;
+   color:blue;
+  }

@@ -1,0 +1,99 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#withdraw-body-id {
+  background-color: #628569;
+  /* background:linear-gradient(90deg,pink,lemonchiffon,skyblue); */
+  /* background-color:lemonchiffon; */
+  height: 450px;
+}
+
+#withdraw-id {
+  border: 2px solid black;
+  /* box-shadow: 0 0 3rem 0 black; */
+  height: 500px;
+  width: 30%;
+  margin-left: 450px;
+  margin-top: 50px;
+  background-color: azure;
+  border-radius: 15px;
+  box-shadow: 3px 3px 3px black;
+  margin-bottom: 100px;
+}
+#withdraw-amount-id {
+  padding-top: 20px;
+  text-align: center;
+  color: gold;
+}
+#wa-hr {
+  padding-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#amount-id {
+  margin-left: 17px;
+  font-size: 20px;
+  padding-top: 45px;
+  padding-left: 10px;
+}
+#field-amount {
+  height: 35px;
+  border-radius: 10px;
+  padding: 0px 10px;
+}
+#pin-id {
+  margin-left: 17px;
+  font-size: 20px;
+  padding-top: 25px;
+  padding-left: 10px;
+}
+#field-pin {
+  height: 35px;
+  border-radius: 10px;
+  padding: 0px 10px;
+}
+/* .button-class{
+    display:flex;
+    gap: 2rem;
+    margin-left: 2rem;
+    
+
+} */
+#withdrawamount-button-id button {
+  display: inline-block;
+  position: absolute;
+  height: 35px;
+  width: 90px;
+  margin-top: 50px;
+  margin-left: 250px;
+  background-color: bisque;
+  border-radius: 10px;
+  border: none;
+  font-size: 17px;
+ 
+}
+#withdraw-back-button-id button {
+  display: inline-block;
+  position: absolute;
+  height: 35px;
+  width: 65px;
+  margin-top: 55px;
+  margin-left: 30px;
+  background-color: bisque;
+  border: none;
+  border-radius: 10px;
+  font-size: 17px;
+}
+.text-feild {
+  height: 23px;
+  width: 240px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px black;
+  margin: 10px;
+}
+label {
+  margin-left: 20px;
+}

@@ -1,0 +1,78 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+#career-body-id{
+    /* background:linear-gradient(90deg,pink,lemonchiffon,skyblue); */
+    background-color: #628569;
+    margin-left:310px;
+  } 
+
+
+#career-body{
+    border:2px solid black;
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left:100px;
+    height:1100px;
+    width:700px;
+    background-color: azure;
+    border-radius: 10px;
+    border:none;
+    box-shadow: 3px 3px 3px 3px gray;
+}
+#career-head{
+    text-align: center;
+    color:gold;
+    padding-top:30px;
+    padding-bottom:20px;
+}
+#career-hr{
+    padding:20px 20px 20px 20px ;
+}
+.body-content{
+    font-size: 20px;
+    padding-left:50px;
+    padding-top:37px;
+    padding-bottom:20px;
+}
+.field{
+    height:35px;
+    width:400px;
+    border-radius: 10px;
+    padding: 0px 10px;
+    margin-top: 10px;
+}
+#submit-btn button{
+    display:inline-block;
+    position:absolute;
+    height:35px;
+    width:70px;
+    margin-top:3px;
+    margin-left:450px;
+    background-color: bisque;
+    font-size:17px;
+    border:none;
+    border-radius:10px;
+    font-size: 17px;
+}
+
+#back-btn button{
+    position:absolute;
+    display:inline-block;
+    height:35px;
+    width:70px;
+    margin-top:3px;
+    margin-left:20px;
+    background-color: bisque;
+    border:none;
+    border-radius:10px;
+    font-size: 17px;
+   
+}  
+#back-btn button a{
+    text-decoration:none;
+    color:black;
+    font-size:17px;
+}

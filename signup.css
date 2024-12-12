@@ -1,0 +1,139 @@
+* {
+  padding: 0;
+}
+
+#signup-body-id {
+  /* background:linear-gradient(90deg,pink,lemonchiffon,skyblue); */
+  background-color: #628569;
+  /* height: 800px; */
+}
+
+#form-id_sign-up {
+  position: relative;
+  padding-top: 10px;
+  border-radius: 5px;
+  width: 600px;
+  height: 1250px;
+  /* align-items:right; */
+  margin-left: 390px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: azure;
+  box-shadow: 3px 3px 3px;
+}
+#signup-hr {
+  padding-top: 20px;
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-bottom: 10px;
+}
+#textfield-label1 {
+  position: relative;
+  padding-top: 30px;
+  font-size: 20px;
+  padding-left: 35px;
+}
+#textfield-label2 {
+  padding-top: 30px;
+  font-size: 20px;
+  padding-left: 35px;
+}
+#textfield-label3 {
+  padding-top: 30px;
+  font-size: 20px;
+  padding-left: 35px;
+}
+#textfield-label4 {
+  padding-top: 30px;
+  font-size: 20px;
+  padding-left: 35px;
+}
+#textfield-labels {
+  padding-top: 30px;
+  font-size: 20px;
+  padding-left: 35px;
+  resize: none;
+}
+.field-width {
+  margin-top: 10px;
+  height: 35px;
+  width: 450px;
+  border-radius: 10px;
+  padding: 0 10px;
+}
+#h1-id {
+  position: relative;
+  text-align: center;
+  margin-top: 5px;
+  color: gold;
+}
+#description-id {
+  position: relative;
+  text-align: center;
+  margin-top: 5px;
+  color: dodgerblue;
+  font-size: 17px;
+}
+#gender-id {
+  padding-left: 35px;
+  padding-bottom: 10px;
+}
+#date-id {
+  padding-left: 35px;
+  /* box-shadow: 3px 3px 3px black; */
+}
+#check-id {
+  margin-top: 10px;
+  margin-left: 35px;
+}
+#sign-in-id {
+  position: absolute;
+  display: inline-block;
+  margin-top: 130px;
+  margin-left: 150px;
+  /* padding-top: 30px; */
+}
+#r-u {
+  text-decoration: none;
+  font-size: 20px;
+  color: blue;
+}
+#signup-back-button-id button {
+  position: absolute;
+  display: inline-block;
+  margin-left: 50px;
+  margin-top: 55px;
+  font-size: 20px;
+  height: 30px;
+  width: 80px;
+  background-color: bisque;
+  border-radius: 10px;
+  border: none;
+  text-decoration: none;
+}
+#signup-back-button-id a {
+  text-decoration: none;
+  color: black;
+  
+}
+#signup-button-id button {
+  position: absolute;
+  display: inline-block;
+  margin-left: 420px;
+  margin-top: 55px;
+  text-decoration: none;
+  font-size: 20px;
+  height: 30px;
+  width: 80px;
+  background-color: bisque;
+  border-radius: 10px;
+  border: none;
+}
+#signup-button-id a {
+  text-decoration: none;
+  color: black;
+}
+textarea{
+  margin-top: 10px;
+  padding: 5px 10px;
+}

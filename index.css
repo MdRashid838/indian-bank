@@ -1,0 +1,363 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#index-navbar {
+  height: 91px;
+  width: 100%;
+  color: goldenrod;
+  background-color: #628569;
+  align-items: center;
+  border-bottom-left-radius: 17px;
+  border-bottom-right-radius: 17px;
+}
+#image-id {
+  position: relative;
+  bottom: 17px;
+}
+#bank-name_id {
+  font-size: 30px;
+  font-family: sans-serif;
+  position: absolute;
+  left: 190px;
+  top: 22px;
+}
+.nav-item1 {
+  display: inline-block;
+
+  background-color: aliceblue;
+  border-radius: 7px;
+}
+#nav-signin button {
+  display: inline-block;
+  font-size: 20px;
+  color: black;
+  margin: 5px;
+  padding: 2px;
+  text-decoration: none;
+  height: 33px;
+  width: 95px;
+  background-color: bisque;
+  border-radius: 7px;
+  border: none;
+  top: 21px;
+  position: absolute;
+  right: 300px;
+  box-shadow: 3px 3px black;
+}
+#nav-signup button {
+  display: inline-block;
+
+  height: 33px;
+  width: 95px;
+  margin: 5px;
+  padding: 2px;
+  font-size: 20px;
+  text-decoration: none;
+  align-items: center;
+  display: inline-block;
+  background-color: bisque;
+
+  border-radius: 7px;
+  position: absolute;
+  top: 21px;
+  right: 500px;
+  border: none;
+  box-shadow: 3px 3px black;
+}
+
+#nav-service button {
+  height: 33px;
+  width: 95px;
+  margin: 5px;
+  padding: 2px;
+  font-size: 20px;
+  border-radius: 7px;
+  text-decoration: none;
+  position: absolute;
+  right: 100px;
+  top: 21px;
+  background-color: bisque;
+  border: none;
+  box-shadow: 3px 3px black;
+}
+#body_id {
+  display: inline-block;
+  position: absolute;
+   /* height:50px; */
+   /* width:400px; */
+  font-size: 30px;
+  color: navy;
+  top: 180px;
+  margin-left: 130px;
+}
+
+#body-content {
+  border: 2px solid black;
+  padding-left: 17px;
+  padding-right: 10px;
+  display: inline-block;
+  position: absolute;
+  top: 260px;
+  margin-left: 110px;
+  font-size: 17px;
+  width: 400px;
+  color: black;
+  border: none;
+  font-style: normal;
+}
+/* body video */
+#body_video {
+  display: inline-block;
+  position: relative;
+  height: 80vh;
+  width: 50%;
+  margin-left: 550px;
+  /* margin-bottom: 400px;; */
+  /* margin-left:100vh;
+    margin-top:150px; */
+  display: flex;
+  opacity: 0.7;
+}
+
+.field-width {
+  width: 500px;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: mintcream;
+  box-shadow: 3px 5px 3px black;
+}
+#title-element-head {
+  display: inline-block;
+  position: absolute;
+  font-size: 30px;
+  color: navy;
+  top: 350px;
+  margin-left: 120px;
+}
+#title-element-content {
+  border: 2px solid black;
+  width: 370px;
+  padding-top: 10px;
+  padding-right: 200px;
+  display: inline-block;
+  position: absolute;
+  top: 380px;
+  margin-left: 117px;
+  font-size: 17px;
+  /* margin-left: 50px; */
+  color: black;
+  border: none;
+}
+#body-element-bcg {
+  background-color: yellow;
+}
+#body-element1-title {
+  padding-top: -10x;
+  font-size: 35px;
+  color: navy;
+  margin-top: 160px;
+  margin-left: 230px;
+  display: inline-block;
+  position: absolute;
+}
+#body-element2-title {
+  padding-top: -10x;
+  font-size: 35px;
+  color: navy;
+  margin-top: 160px;
+  margin-left: 650px;
+  display: inline-block;
+  position: absolute;
+}
+#body-element3-title {
+  padding-top: -10x;
+  font-size: 35px;
+  color: navy;
+  margin-top: 160px;
+  margin-left: 1050px;
+  display: inline-block;
+  position: absolute;
+}
+#body-element1-content {
+  border: 2px solid black;
+  padding-right: 0px;
+  margin-top: 195px;
+  margin-left: 230px;
+  width: 200px;
+  display: inline-block;
+  position: absolute;
+  font-size: 22px;
+  color: black;
+  border: none;
+}
+#body-element2-content {
+  border: 2px solid black;
+  padding-right: 0px;
+  margin-top: 195px;
+  margin-left: 650px;
+  width: 200px;
+  display: inline-block;
+  position: absolute;
+  font-size: 22px;
+  color: black;
+  border: none;
+}
+#body-element3-content {
+  border: 2px solid black;
+  padding-right: 0px;
+  width: 400px;
+  margin-top: 195px;
+  margin-left: 1050px;
+  width: 200px;
+  display: inline-block;
+  position: absolute;
+  font-size: 22px;
+  color: black;
+  border: none;
+}
+#content-bcg{
+  background-color: aqua;
+}
+
+#background-ib {
+  position: absolute;
+  /* display: inline block; */
+  margin-top: 250px;
+  padding-top: 200px;
+  margin-left: 600px;
+  /* margin-bottom: 200px; */
+  /* margin-top: -200px; */
+  height: 100px;
+  width: 800px;
+  /* text-align: center; */
+  /* margin: 0px auto; */
+}
+main{
+  height: 1vh;
+  /* border: 2px solid black; */
+}
+
+body{
+  overflow-x: hidden;
+}
+
+
+/* footer styling starts from here */
+
+/* #nav-footer-company button{
+        
+         width:95px;
+        display:inline-block;
+         
+         color:white;
+         font-size: 17px;
+         
+        
+         position:absolute;
+        margin-left:590px;
+         
+         margin-top:30px;
+        background-color: black;
+         border:none;
+         opacity:0.5; 
+      }*/
+
+#footer-id {
+  height: 120px;
+  width: 100%;
+  background-color: black;
+  text-decoration: none;
+  /* position: absolute; */
+  /* top: 2%; */
+  margin-top: 100%;
+  padding: 0 40px;
+  /* margin-right:0px; */
+}
+#nav-about button {
+  width: 95px;
+  display: inline-block;
+
+  color: white;
+  font-size: 20px;
+  border: none;
+
+  position: absolute;
+  margin-left: 400px;
+
+  margin-top: 45px;
+  background-color: black;
+}
+#nav-contact button {
+  width: 300px;
+  display: inline-block;
+
+  color: white;
+  font-size: 20px;
+
+  position: absolute;
+  margin-left: 500px;
+
+  margin-top: 45px;
+
+  background-color: black;
+  border: none;
+}
+#nav-careers button {
+  width: 95px;
+  display: inline-block;
+  position: absolute;
+  color: white;
+  font-size: 20px;
+  border: none;
+
+  margin-left: 800px;
+
+  margin-top: 45px;
+  background-color: black;
+}
+
+#nav-customer-support button {
+  width: 250px;
+  display: inline-block;
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  margin-top: 45px;
+  margin-left: 950px;
+  background-color: black;
+  border: none;
+}
+#nav-privacy button {
+  width: 250px;
+  display: inline-block;
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  margin-top: 45px;
+  margin-left: 150px;
+  background-color: black;
+  border: none;
+}
+
+#email-id a i {
+  display: inline-block;
+  position: absolute;
+  /* height:150px;
+         width:2000px; */
+  font-size: 30px;
+  color: white;
+  margin-left: 30px;
+  margin-top: 45px;
+}
+#tel-id a i {
+  display: inline-block;
+  position: absolute;
+  /* height:150px;
+         width:2000px; */
+  font-size: 30px;
+  color: white;
+  margin-left: 120px;
+  margin-top: 45px;
+}

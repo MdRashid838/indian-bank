@@ -1,0 +1,46 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+#about-body div{
+    background: linear-gradient(90deg,pink,lemonchiffon,skyblue);
+   
+    text-align:justify;
+   height:100vh;
+   padding: 50px;
+}
+h2{
+    color:green;
+}
+#about-back-btn1{
+    position:absolute;
+    display:inline-block;
+    margin-left:50px;
+    margin-top:100px;
+    height:30px;
+    width:70px;
+    border-radius:10px;
+    color:rgb(231, 231, 239);
+    border:none;
+    text-transform: lowercase;
+    text-decoration:none;
+    font-size:20px;
+    background-color: rgb(226, 41, 41);
+    text-align:center;
+    
+}
+#about-back-btn2{
+    position:absolute;
+    display:inline-block;
+    margin-left:90px;
+    margin-top:303px;
+    height:40px;
+    width:75px;
+    border-radius:10px;
+    color:blue;
+    border:none;
+    text-transform: lowercase;
+    font-size:17px;
+    
+}

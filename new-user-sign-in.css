@@ -1,0 +1,81 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+#signin-body-id{
+    background:linear-gradient(90deg,pink,lemonchiffon,silver);
+   
+  } 
+
+ #signin-page{
+    position:relative;
+    padding-top:20px;
+    text-align:center;
+    font-size:25px;
+    color:gold;
+ }                               
+
+ #signin-hr{
+    margin-left:20px;
+    margin-right:20px;
+    margin-top:30px;
+}
+#form-id-signin{
+    margin-left:500px;
+    margin-top:100px;
+    border:2px solid black;
+    width:500px;
+    height:500px;
+    background-color:azure;
+    border-radius:10px;
+    box-shadow: 3px 3px 3px black;
+    border:none;
+
+   
+}
+#user-id{
+    position:absolute;
+    margin-top:95px;
+    /* padding-top:30px; */
+    padding-left:20px;
+    font-size:20px;
+}
+#password-id{
+    position:absolute;
+   margin-top:150px;
+    padding-left:20px;
+    font-size:20px;
+}
+.text-item{
+    height:23px;
+    width:240px;
+    box-shadow:2px 2px 2px black;
+    border-radius:4px;
+}
+/* #signinamount-button-id{
+    display:inline;
+} */
+#signin-back-button-id button{
+   display:inline-block;
+    height:35px;
+    width:80px;
+    font-size: 20px;
+    background-color:bisque;
+    border-radius:10px;
+    margin-left:50px;
+    margin-top:300px;
+    border:none;
+}
+#signin-button-id button{
+   display:inline-block;
+   margin-left:350px;
+   margin-top:-30px;
+   position:absolute;
+    font-size: 20px;
+    height:35px;
+    width:80px;
+    background-color:bisque;
+    border-radius:10px;
+    border:none;
+}
